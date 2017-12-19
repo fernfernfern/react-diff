@@ -1,5 +1,5 @@
 {
-  "name": "react-diff",
+  "name": "@fernfernfern/react-diff",
   "version": "0.0.7",
   "description": "Highlight differences between inputs",
   "main": "dist/react-diff.js",
