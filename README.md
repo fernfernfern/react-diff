@@ -5,7 +5,7 @@ Highlights differences between two strings, uses the [diff](https://www.npmjs.co
 ## Installation
 
 ```
-npm install react-diff
+npm install @fernfernfern/react-diff
 ```
 
 ## Demo
